@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "레코딩 수집 [!DNL Experience Makers Learn from your peers]"
-source-git-commit: 7f16686c5832a2815e4a85fd38cf35752757586f
+source-git-commit: 112c25b593e5d3569dedc99b36237b92494d8a44
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 22%
+source-wordcount: '67'
+ht-degree: 20%
 
 ---
 
@@ -29,5 +29,7 @@ ht-degree: 22%
       + 년 3월{#mar2022}
          + [데이터를 사용하여 영향력 있는 스토리 전달](analytics/mar2022/stories-with-data.md)
 + Marketo {#marketo}
+   + 년 5월{#may2023}
+      + [Marketo Engage을 사용하여 확장 코드에서 개인화 균열](marketo/may2023/personalization-at-scale.md)
    + 년 3월{#mar2023}
       + [사용자 정의 [!DNL Adobe Marketo Engage] 확장 가능한 컨텐츠](marketo/mar2023/templates-tokens-teamwork.md)
