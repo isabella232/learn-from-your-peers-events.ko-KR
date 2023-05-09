@@ -8,7 +8,7 @@ doc-type: Event
 last-substantial-update: 2023-05-05T00:00:00Z
 jira: KT-13214
 thumbnail: 3419133.jpeg
-source-git-commit: 112c25b593e5d3569dedc99b36237b92494d8a44
+source-git-commit: 2a3677dfebbe9a1edfce7d3c03bf921525a57bd7
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 이 웨비나에서는 다음을 배울 수 있습니다.
 
 * 개인화가 중요한 이유는 무엇입니까?
-* 각각에 사용할 주요 개인화 사용 사례 및 기술 Marketo Engage 내에서 사용할 수 있는 기능 및 기법은 다음 방법을 학습합니다. 토큰, 세그먼테이션, 다이내믹 컨텐츠 및 코드 조각 및 속도 스크립팅.
+* 각각에 사용할 주요 개인화 사용 사례 및 기술 Adobe에서는 Marketo Engage 내에서 사용할 수 있는 기능 및 기술을 소개합니다. 토큰, 세그먼테이션, 다이내믹 컨텐츠 및 코드 조각 및 속도 스크립팅.
 * 사용자 정의 개체에서 가져온 데이터를 사용하여 콘텐츠를 개인화하는 등 고급 속도 스크립팅 사용 사례입니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419133/?learn=on)
