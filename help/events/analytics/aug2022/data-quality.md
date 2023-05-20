@@ -1,6 +1,6 @@
 ---
 title: 데이터 품질 및 채택
-description: Adobe Analytics의 모든 측면에 데이터 품질을 빌드하고 이를 둘러싼 공유 문화를 만드는 방법을 알아봅니다.
+description: Adobe Analytics의 모든 측면에 데이터 품질을 구축하고 이를 둘러싼 공유 문화를 생성하는 방법에 대해 알아봅니다.
 solution: Analytics
 role: User
 doc-type: Event
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# 데이터 품질 및 채택 [!DNL Analytics]
+# 의 데이터 품질 및 채택 [!DNL Analytics]
 
-기업은 데이터를 향후 비즈니스 성공을 위한 주요 요인으로 인식했습니다. 이를 실현하려면 높은 수준의 데이터 품질을 제공하고 성숙한 데이터 스택을 채택해야 합니다. 모든 측면에서 데이터 품질을 구축하는 방법을 살펴볼 수 있습니다 [!DNL Adobe Analytics] 그리고 그 주위에 공유 문화를 만듭니다.
+기업은 데이터를 향후 비즈니스 성공을 위한 핵심 요소로 파악했습니다. 이를 위해서는 높은 수준의 데이터 품질과 성숙한 데이터 스택의 채택이 필요합니다. 의 모든 측면에 데이터 품질을 구축할 수 있는 방법을 알아봅니다 [!DNL Adobe Analytics] 그리고 주변에 공유 문화를 만들어.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414203/?quality=12&learn=on)
